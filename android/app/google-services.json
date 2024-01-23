@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902438368467",
+    "project_id": "thundr-chat-app",
+    "storage_bucket": "thundr-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902438368467:android:d6c91ec2502f63d7ec1026",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85KugkcVmpMOIUr4EZ3Hl0ATeykvBuXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
